@@ -31,3 +31,45 @@
 
 ### \- None yet
 
+
+
+\## Tuesday, May 21
+
+\### Time: 3.5 hours
+
+\### Topics Covered:
+
+\- NumPy arrays, operations, matrix multiplication
+
+\- Pandas DataFrames, loading data, statistics
+
+\- Coursera: Gradient Descent introduction
+
+\- Practice exercises with house price dataset
+
+\### Key Learnings:
+
+1\. NumPy: vectorized operations are much faster than loops
+
+2\. Pandas: DataFrame is like Excel table in Python
+
+3\. Cost function: measures how wrong our predictions are
+
+4\. Gradient descent: algorithm to minimize cost
+
+\### Code Written:
+
+\- numpy-basics.ipynb (8 exercises)
+
+\- pandas-basics.ipynb (6 exercises)
+
+\- coursera-week1-practice.py (cost function)
+
+\### Tomorrow:
+
+\- Statistics \& probability basics
+
+\- Linear algebra: Vectors and matrices deep dive
+
+\- More Coursera problems
+
