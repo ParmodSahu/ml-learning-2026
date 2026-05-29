@@ -1,6 +1,6 @@
-\# AI/ML Engineer Learning Journey
+# AI/ML Engineer Learning Journey
 
-\*\*Goal\*\*: Become a job-ready ML engineer in 8 months
+**Goal**: Become a job-ready ML engineer in 8 months
 
 \*\*Status\*\*: Week 1 - Foundations
 
