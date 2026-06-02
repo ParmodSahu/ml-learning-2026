@@ -2,35 +2,35 @@
 
 **Goal**: Become a job-ready ML engineer in 8 months
 
-\*\*Status\*\*: Week 1 - Foundations
+**Status**: Week 1 - Foundations
 
-\## Learning Path
+## Learning Path
 
-\- \[ ] Phase 1 (Months 1-2): Foundations - Python, Linear Algebra, ML basics
+- [ ] Phase 1 (Months June,July): Foundations - Python, Linear Algebra, ML basics
 
-\- \[ ] Phase 2 (Months 3-4): Deep Learning - Neural Networks, CNNs, RNNs
+- [ ] Phase 2 (Months Aug, Sep): Deep Learning - Neural Networks, CNNs, RNNs
 
-\- \[ ] Phase 3 (Months 5-6): Specialization - NLP / Vision / LLMs
+- [ ] Phase 3 (Months Oct, Nov): Specialization - NLP / Vision / LLMs
 
-\- \[ ] Phase 4 (Months 7-8): Production - MLOps, Deployment, Job search
+- [ ] Phase 4 (Months Dec, Jan): Production - MLOps, Deployment, Job search
 
-\## Projects
+## Projects
 
-\- Project 1: End-to-End ML Pipeline
+- Project 1: End-to-End ML Pipeline
+  
+- Project 2: Deep Learning Application
+  
+- Project 3: Production ML Service
 
-\- Project 2: Deep Learning Application
+## Resources
 
-\- Project 3: Production ML Service
+- Andrew Ng ML Specialization (Coursera)
 
-\## Resources
+- Fast.ai Practical Deep Learning
 
-\- Andrew Ng ML Specialization (Coursera)
+- 3Blue1Brown Linear Algebra
 
-\- Fast.ai Practical Deep Learning
+## Weekly Updates
 
-\- 3Blue1Brown Linear Algebra
-
-\## Weekly Updates
-
-\- Week 1: Environment setup, GitHub, Python basics started
+- Week 1: Environment setup, GitHub, Python basics started
 
