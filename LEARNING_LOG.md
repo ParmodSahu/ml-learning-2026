@@ -1,16 +1,16 @@
 # Learning Log - Week 1
 
-## Monday, May 20
+## Wednesday, May 20
 
 ### Time: 3.5 hours
 
 ### Topics Covered:
 
 * Installed Python, numpy, pandas, jupyter
-* \- Created GitHub repo ml-learning-2024
-* \- Enrolled in Coursera ML Specialization
-* \- Watched: What is ML, Supervised vs Unsupervised, Intro to Linear Regression
-* \- Took first quiz (Score: 80%)
+*  Created GitHub repo ml-learning-2024
+*  Enrolled in Coursera ML Specialization
+*  Watched: What is ML, Supervised vs Unsupervised, Intro to Linear Regression
+*  Took first quiz (Score: 80%)
 
 ### Key Learnings:
 
@@ -21,23 +21,20 @@
 
 ### Tomorrow:
 
-### \- Continue Coursera videos
-
-### \- Start Python practice exercises
-
-### \- Push learning log to GitHub
+*  Continue Coursera videos
+*  Start Python practice exercises
+*  Push learning log to GitHub
 
 ### Blockers/Questions:
-
-### \- None yet
-
+*  None yet
 
 
-\## Tuesday, May 21
 
-\### Time: 3.5 hours
+## Thursday, May 21
 
-\### Topics Covered:
+### Time: 3.5 hours
+
+### Topics Covered:
 
 \- NumPy arrays, operations, matrix multiplication
 
@@ -47,7 +44,7 @@
 
 \- Practice exercises with house price dataset
 
-\### Key Learnings:
+### Key Learnings:
 
 1\. NumPy: vectorized operations are much faster than loops
 
@@ -57,7 +54,7 @@
 
 4\. Gradient descent: algorithm to minimize cost
 
-\### Code Written:
+### Code Written:
 
 \- numpy-basics.ipynb (8 exercises)
 
@@ -65,11 +62,12 @@
 
 \- coursera-week1-practice.py (cost function)
 
-\### Tomorrow:
+### Tomorrow:
 
 \- Statistics \& probability basics
 
 \- Linear algebra: Vectors and matrices deep dive
 
 \- More Coursera problems
+
 
