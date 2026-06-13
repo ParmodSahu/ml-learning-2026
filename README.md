@@ -33,4 +33,5 @@
 ## Weekly Updates
 
 - Week 1: Environment setup, GitHub, Python basics started
+- Week 2: Linear Alfebra
 
